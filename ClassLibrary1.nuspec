@@ -14,7 +14,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="bin\Release\ClassLibrary1.dll" target="lib\net47\" />
+    <file src="ClassLibrary1\bin\Release\ClassLibrary1.dll" target="lib\net47\" />
     <!-- Inclua outros arquivos se necessário -->
   </files>
 </package>
