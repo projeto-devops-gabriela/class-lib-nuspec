@@ -10,7 +10,7 @@
     <copyright>Copyright © projeto-devops-gabriela 2025</copyright>
     <tags>library class .NET</tags>
     <dependencies>
-      <!-- Adicione dependências aqui, se necessário -->
+      <group targetFramework=".NETFramework4.7"
     </dependencies>
   </metadata>
   <files>
